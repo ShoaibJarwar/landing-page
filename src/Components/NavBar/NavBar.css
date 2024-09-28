@@ -1,0 +1,21 @@
+.nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin: 5px 10vw;
+    color: aliceblue;
+}
+
+.nav-logo{
+    font-size: larger;
+    font-weight: 900;
+}
+.nav-menu{
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+}
